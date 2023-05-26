@@ -1,3 +1,35 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base{
+  select{
+      all: unset;
+      font-weight: bold;
+  }
+
+  body::-webkit-scrollbar{
+    display: none;
+  }
+
+ 
+
+}
+
+@layer components {
+  .card{
+    @apply w-[200px] h-[250px] bg-blue-400 rounded-md flex flex-col justify-evenly items-center text-white
+  }
+
+  .modal{
+    @apply w-1/2 h-[400px] bg-white rounded-lg z-40 text-right flex flex-col items-end p-5 justify-between gap-8
+  }
+
+  .active-btn{
+    @apply !bg-indigo-500
+  }
+
+  .modal_wrapper{
+    @apply fixed inset-0 flex items-center justify-center
+  }
+}
