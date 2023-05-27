@@ -2,42 +2,42 @@
   "all": [
     {
       "id": "8b939627-d6d1-417f-81b4-dced11a93edc",
-      "imageUrl": "./dist/images/prof.jpg",
-      "name": "Majid",
-      "specialist": "Dentist",
-      "ReservesDate": ["Friday", "Sunday", "Saturday"]
+      "imageUrl": "./images/prof.jpg",
+      "name": "دکتر سهرابی",
+      "specialist": "متخصص قلب",
+      "ReservesDate": ["جمعه", "یکشنبه", "شنبه"]
     },
 
     {
       "id": "5214cf42-1564-4412-a6e9-821f2804a4ae",
-      "imageUrl": "./dist/images/prof.jpg",
-      "name": "Majid",
-      "specialist": "Dentist",
-      "ReservesDate": ["Friday", "Sunday", "Saturday"]
+      "imageUrl": "./images/prof.jpg",
+      "name": "دکتر سهرابی",
+      "specialist": "دندان پزشک",
+      "ReservesDate": ["جمعه", "یکشنبه", "شنبه"]
     },
 
     {
       "id": "1bc451af-c89a-44c6-8521-21a6aff308ab",
-      "imageUrl": "./dist/images/prof.jpg",
-      "name": "Majid",
-      "specialist": "Dentist",
-      "ReservesDate": ["Friday", "Sunday", "Saturday"]
+      "imageUrl": "./images/prof.jpg",
+      "name": "دکتر سهرابی",
+      "specialist": "اطفال",
+      "ReservesDate": ["جمعه", "یکشنبه", "شنبه"]
     },
 
     {
       "id": "b45d5cb5-b311-40c7-83ff-edb3534f93d0",
-      "imageUrl": "./dist/images/prof.jpg",
-      "name": "Majid",
-      "specialist": "Dentist",
-      "ReservesDate": ["Friday", "Sunday", "Saturday"]
+      "imageUrl": "./images/prof.jpg",
+      "name": "دکتر سهرابی",
+      "specialist": "مغز و اعصاب",
+      "ReservesDate": ["جمعه", "یکشنبه", "شنبه"]
     },
 
     {
       "id": "c7ea97eb-ff92-495a-a628-0fb8a1b40836",
-      "imageUrl": "./dist/images/prof.jpg",
-      "name": "Majid",
-      "specialist": "Dentist",
-      "ReservesDate": ["Friday", "Sunday", "Saturday"]
+      "imageUrl": "./images/prof.jpg",
+      "name": "دکتر سهرابی",
+      "specialist": "داخلی",
+      "ReservesDate": ["جمعه", "یکشنبه", "شنبه"]
     }
   ]
 }
